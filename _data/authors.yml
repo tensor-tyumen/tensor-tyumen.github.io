@@ -12,6 +12,13 @@ bogatirev_misha:
   email: ma.bogatyrev@tensor.ru
   avatar: misha.png
   company: Тензор Уфа
+  current: true
+
+timofeev_vitaliy:
+  name: Тимофеев Виталий
+  email: vn.timofeev@tensor.ru
+  avatar: timofeev_vitaliy.png
+  company: Тензор Ярославль
 
 potykov_vitaliy:
   name: Потяков Виталий
