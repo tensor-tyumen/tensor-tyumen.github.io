@@ -5,7 +5,7 @@ modified:
 categories: talks
 author: [harlov_anton, gatullina]
 excerpt:
-tags: [javascript, errorhandling]
+tags:
 image:
   feature:
 talk: meetup_112016
