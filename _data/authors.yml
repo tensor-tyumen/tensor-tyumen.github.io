@@ -19,18 +19,21 @@ timofeev_vitaliy:
   email: vn.timofeev@tensor.ru
   avatar: timofeev_vitaliy.png
   company: Тензор Ярославль
+  current: true
 
 harlov_anton:
   name: Харлов Антон
   email:
   avatar: harlov_anton.jpg
   company: Тензор Уфа
+  current: true
 
 gatullina:
   name: Гатауллина Галия
   email:
   avatar: gatullina.jpg
   company: Тензор Уфа
+  current: true
 
 potykov_vitaliy:
   name: Потяков Виталий
