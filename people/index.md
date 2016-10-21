@@ -37,5 +37,6 @@ comments: true
     {% endfor %}
     </ul>
   </li>
+  {% endif %}
 {% endfor %}
 </ul>
