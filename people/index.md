@@ -8,6 +8,7 @@ comments: true
 {% for data in site.data.authors %}
   {% assign author = data[1] %}
   {% assign authorId = data[0] %}
+  {% author.current %}
   <li>
     <div class="bio-block">
       {% if author.avatar contains 'http' %}
@@ -36,5 +37,6 @@ comments: true
     {% endfor %}
     </ul>
   </li>
+  {% endif %}
 {% endfor %}
 </ul>
