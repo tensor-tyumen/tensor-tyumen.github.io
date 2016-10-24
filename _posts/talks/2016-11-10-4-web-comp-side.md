@@ -8,8 +8,8 @@ excerpt:
 tags: [web]
 image:
   feature:
-talk: meetup_u1
-date: 2016-06-06
+talk: meetup_112016
+date: 2016-11-10
 comments: true
 share: true
 announce: false 
