@@ -22,13 +22,13 @@ timofeev_vitaliy:
   current: false
 
 harlov_anton:
-  name: Харлов Антон
+  name: Харлов Антон/Гатауллина Галия
   avatar: harlov_anton.jpg
   company: Тензор Уфа
   current: true
 
 gatullina:
-  name: Гатауллина Галия
+  name: 
   avatar: gatullina.jpg
   company: Тензор Уфа
   current: true
