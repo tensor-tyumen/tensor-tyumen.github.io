@@ -12,7 +12,7 @@ talk: meetup_112016
 date: 2016-11-10
 comments: true
 share: true
-announce: false 
+announce: true 
 video: 
 slides: 
 ---
