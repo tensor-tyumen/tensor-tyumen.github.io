@@ -14,7 +14,9 @@ comments: true
     {% capture authorslist %}
       {% for a in post.author %}
         {% assign author = site.data.authors[a] %}
+        {% if author.current %}
         {% if author %} {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}{% unless forloop.last %};{% endunless %}
+        {% endif %}
       {% endfor %}
     {% endcapture %}
   {% endif %}
