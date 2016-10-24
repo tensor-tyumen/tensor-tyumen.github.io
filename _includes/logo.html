@@ -4,5 +4,9 @@
     <div class="l2"></div>
     <div class="l3"></div>
 </div>-->
-<a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInUp"></a>
+<a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}">
+    <div class="thumbnail" style="  position: relative; width: 200px; height: 200px; overflow: hidden;">
+        <img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInUp" style="position: absolute; left: 50%; top: 50%; height: 100%; width: auto; -webkit-transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); transform: translate(-50%,-50%);">
+    </div>
+</a>
 {% endif %}
