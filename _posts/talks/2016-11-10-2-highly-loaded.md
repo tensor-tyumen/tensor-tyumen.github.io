@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Высоконагруженные системы"
+title: "Высоконагруженные системы: как мы распознали свой первый миллион изображений"
 modified:
 categories: talks
 author: [harlov_anton, gatullina]
