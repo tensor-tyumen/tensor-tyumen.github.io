@@ -10,7 +10,6 @@ comments: true
 
 <ul class="post-list">
 {% for post in site.categories.talks %}
-  {% if not post.finished %}
   {% if post.author %}
     {% capture authorslist %}
       {% for a in post.author %}
@@ -23,7 +22,6 @@ comments: true
   {% endif %}
   {% if post.announce %}
   <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}, {{ authorslist }}</a></li>
-  {% endif %}
   {% endif %}
 {% endfor %}
 </ul>
