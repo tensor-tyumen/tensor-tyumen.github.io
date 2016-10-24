@@ -43,7 +43,7 @@ comments: true
 "Контактные телефоны: +7 909 192 26 58 Дарья"
 
 
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=IKzLpUBEkjooeaeiek4dlD_aC_Np-EEg&amp;width=500&amp;height=500&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
+<!--<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=IKzLpUBEkjooeaeiek4dlD_aC_Np-EEg&amp;width=500&amp;height=500&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>-->
 
 <!--<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=07cEbZAuz88f1MHBau5pUv2p-tKHd60J&width=630&height=630&lang=ru_RU&sourceType=constructor&scroll=true"></script>-->
 
