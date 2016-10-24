@@ -38,9 +38,12 @@ comments: true
 Где
 ---
 
-Пока не известно. Следите за обновлениями на сайте.
+Встреча пройдет по адресу: г. Тюмень, ул. Республики, 159, Отель Восток.
 
-"Контактные телефоны: +7 909 192 26 58 Дарья"
+Маршрут от остановки общественного транспорта указан на карте.
+Места для парковки автомобилей указаны на карте зеленым цветом. Припарковаться можно: на парковке перед Гостиным двором, перед 8м корпусом УГАТУ или прямо у гостиницы. Парковка *бесплатная*. После проведения мероприятия необходимо сбросить время у пропуска стоянки на ресепшене.
+
+Контактные телефоны: +7 909 192 26 58 Дарья
 
 <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=IKzLpUBEkjooeaeiek4dlD_aC_Np-EEg&amp;width=500&amp;height=500&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
 <!--<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=IKzLpUBEkjooeaeiek4dlD_aC_Np-EEg&amp;width=500&amp;height=500&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>-->
