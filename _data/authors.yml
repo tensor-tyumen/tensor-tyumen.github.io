@@ -1,5 +1,17 @@
 # Authors
 
+harlov_anton:
+  name: Харлов Антон<br>Гатауллина Галия
+  avatar: harlov_anton.jpg
+  company: Тензор Уфа
+  current: true
+
+gatullina:
+  name: 
+  avatar: gatullina.jpg
+  company:
+  current: true
+
 khamitov_kirill:
   name: Хамитов Кирилл
   email: hekusoid@gmail.com
@@ -20,18 +32,6 @@ timofeev_vitaliy:
   avatar: timofeev_vitaliy.png
   company: Тензор Ярославль
   current: false
-
-harlov_anton:
-  name: Харлов Антон<br>Гатауллина Галия
-  avatar: harlov_anton.jpg
-  company: Тензор Уфа
-  current: true
-
-gatullina:
-  name: 
-  avatar: gatullina.jpg
-  company:
-  current: true
 
 potykov_vitaliy:
   name: Потяков Виталий
